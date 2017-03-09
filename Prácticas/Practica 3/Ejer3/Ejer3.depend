@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1461685712 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer3\main.cpp
+	<iostream>
+	"AGEN_H.h"
+	"agen_E-S.h"
+	"desequilibrio.hpp"
+
+1459889033 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer3\agen_h.h
+	<cassert>
+
+1459888144 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer3\agen_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+
+1461687314 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer3\desequilibrio.hpp
+	<algorithm>
+

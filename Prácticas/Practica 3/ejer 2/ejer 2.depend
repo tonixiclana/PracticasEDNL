@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1461674773 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer 2\main.cpp
+	<iostream>
+	"AGEN_H.h"
+	"agen_E-S.h"
+	"profNodo.hpp"
+
+1459889033 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer 2\agen_h.h
+	<cassert>
+
+1459888144 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer 2\agen_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+
+1461674806 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer 2\profnodo.hpp
+	<algorithm>
+

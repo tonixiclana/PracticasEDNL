@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1458671155 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\ejer2\main.cpp
+	<iostream>
+	"reflejado_por_nodos.hpp"
+
+1458130405 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\ejer2\similares.h
+	"../ABIN_H.h"
+	"../cola_enlazada.h"
+	"../listaEnlazada.h"
+
+1457879751 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\abin_h.h
+	<algorithm>
+	<cassert>
+
+1449770243 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\cola_enlazada.h
+	<cassert>
+
+1452336656 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\listaenlazada.h
+	<cassert>
+
+1458671259 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\ejer2\reflejado_por_nodos.hpp
+	"../ABIN_H.h"
+	"../abin_E-S.h"
+
+1457468051 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\abin_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1461773673 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 4\prueba funcionamieto\prueba_abb\main.cpp
+	<iostream>
+	"ABB_H.hpp"
+	"abb_E-S.h"
+
+1461774002 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 4\prueba funcionamieto\prueba_abb\abb_h.hpp
+	<cassert>
+
+1461767283 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 4\prueba funcionamieto\prueba_abb\abb_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+

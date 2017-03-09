@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1465617709 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer4\main.cpp
+	<iostream>
+	"ejercicio4.h"
+
+1465617795 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer4\ejercicio4.h
+	"alg_grafoPMC.h"
+	"alg_grafoP_E-S.h"
+
+1465582803 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer4\alg_grafopmc.h
+	<cassert>
+	"grafoPMC.h"
+	<vector>
+	"matriz.h"
+	"apo.h"
+	"particion.h"
+
+1465577806 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer4\grafopmc.h
+	<vector>
+	<limits>
+	<ostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"listaenla.h"
+	"grafoMA.h"
+
+1462967366 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer4\listaenla.h
+	<cassert>
+
+1462967357 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer4\grafoma.h
+	<vector>
+	<ostream>
+	<string>
+
+1462967369 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer4\matriz.h
+	<vector>
+
+1462967337 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer4\apo.h
+	<cassert>
+
+1462967374 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer4\particion.h
+	<vector>
+
+1462967331 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer4\alg_grafop_e-s.h
+	"grafoPMC.h"
+	<ostream>
+	<iomanip>
+

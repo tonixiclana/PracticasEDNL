@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1458308535 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\main.cpp
+	<iostream>
+	<algorithm>
+	"ABIN_H.h"
+	"abin_E-S.h"
+	"recorridos_ABIN.h"
+	"Ejer7.h"
+
+1457456450 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\abin_vec1_h.h
+	<cassert>
+
+1457468051 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\abin_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+
+1457879751 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\abin_h.h
+	<algorithm>
+	<cassert>
+
+1457888943 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\recorridos_abin.h
+
+1457876928 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\ejer1.h
+
+1457875927 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\ejer2.h
+	<algorithm>
+
+1457877018 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\ejer3.h
+
+1457891944 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\abin_vec0_h.h
+	<cassert>
+
+1457894842 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\ejer6.h
+	<algorithm>
+
+1458309775 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 1\practica 1\ejer7.h
+	<algorithm>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1459271241 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\ejer3\aritmetico.cpp
+	"aritmetico.h"
+
+1459334548 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\ejer3\aritmetico.h
+	"../ABIN_H.h"
+	"../cola_enlazada.h"
+	"../listaEnlazada.h"
+	"../abin_E-S.h"
+
+1457883351 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\abin_h.h
+	<algorithm>
+	<cassert>
+
+1449773843 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\cola_enlazada.h
+	<cassert>
+
+1452340256 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\listaenlazada.h
+	<cassert>
+
+1459281551 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\abin_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+
+1459333636 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\ejer3\main.cpp
+	<iostream>
+	"aritmetico.h"
+

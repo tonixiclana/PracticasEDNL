@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1465964811 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2\main.cpp
+	<iostream>
+	"ejercicio2.h"
+
+1465964742 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2\ejercicio2.h
+	"alg_grafoPMC.h"
+	"alg_grafoP_E-S.h"
+
+1465962013 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2\alg_grafopmc.h
+	<cassert>
+	"grafoPMC.h"
+	<vector>
+	"matriz.h"
+	"apo.h"
+	"particion.h"
+
+1465577806 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2\grafopmc.h
+	<vector>
+	<limits>
+	<ostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"listaenla.h"
+	"grafoMA.h"
+
+1462967366 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2\listaenla.h
+	<cassert>
+
+1462278456 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2\grafoma.h
+	<vector>
+	<ostream>
+	<string>
+
+1462967369 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2\matriz.h
+	<vector>
+
+1462967337 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2\apo.h
+	<cassert>
+
+1462967374 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2\particion.h
+	<vector>
+
+1462967331 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2\alg_grafop_e-s.h
+	"grafoPMC.h"
+	<ostream>
+	<iomanip>
+
+1466014264 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2 - version extrema\main.cpp
+	<iostream>
+	"ejercicio2.h"
+
+1466014264 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2 - version extrema\ejercicio2.h
+	"alg_grafoPMC.h"
+	"alg_grafoP_E-S.h"
+	<stdlib.h>
+
+1465962013 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2 - version extrema\alg_grafopmc.h
+	<cassert>
+	"grafoPMC.h"
+	<vector>
+	"matriz.h"
+	"apo.h"
+	"particion.h"
+
+1465577806 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2 - version extrema\grafopmc.h
+	<vector>
+	<limits>
+	<ostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"listaenla.h"
+	"grafoMA.h"
+
+1462967366 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2 - version extrema\listaenla.h
+	<cassert>
+
+1462278456 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2 - version extrema\grafoma.h
+	<vector>
+	<ostream>
+	<string>
+
+1462967369 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2 - version extrema\matriz.h
+	<vector>
+
+1462967337 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2 - version extrema\apo.h
+	<cassert>
+
+1462967374 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2 - version extrema\particion.h
+	<vector>
+
+1462967331 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer2 - version extrema\alg_grafop_e-s.h
+	"grafoPMC.h"
+	<ostream>
+	<iomanip>
+

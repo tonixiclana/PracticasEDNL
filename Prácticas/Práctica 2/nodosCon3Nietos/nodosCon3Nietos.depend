@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1459372213 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\nodoscon3nietos\main.cpp
+	<iostream>
+	"nodosCon3Nietos.hpp"
+
+1459375325 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\nodoscon3nietos\nodoscon3nietos.hpp
+	"../ABIN_H.h"
+	"../abin_E-S.h"
+
+1457883351 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\abin_h.h
+	<algorithm>
+	<cassert>
+
+1459281551 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\abin_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+

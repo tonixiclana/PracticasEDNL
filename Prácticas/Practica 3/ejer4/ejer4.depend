@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1461760916 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer4\main.cpp
+	<iostream>
+	"AGEN_H.h"
+	"agen_E-S.h"
+	"poda.hpp"
+
+1459889033 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer4\agen_h.h
+	<cassert>
+
+1459888144 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer4\agen_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+
+1461760901 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer4\poda.hpp
+	<algorithm>
+
+1461715945 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer4\listaenlazada.h
+	<cassert>
+
+1452621653 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practica 3\ejer4\listadobleenlazadacabecera.h
+	<cassert>
+

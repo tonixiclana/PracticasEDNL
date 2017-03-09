@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1461602246 source:/home/jaime/Escritorio/Arboldebusqueda/main.cpp
+	<iostream>
+
+1461620186 source:/home/jaime/Escritorio/Arboldebusqueda/MainPruebas.cpp
+	"ArBinBus.h"
+	"E_S_BUS_.h"
+	"operabus.hpp"
+	<iostream>
+	<stdlib.h>
+	<cassert>
+
+1461620141 /home/jaime/Escritorio/Arboldebusqueda/ArBinBus.h
+	<cassert>
+
+1461620178 /home/jaime/Escritorio/Arboldebusqueda/E_S_BUS_.h
+	<iostream>
+	<stdlib.h>
+	<cassert>
+	"ArBinBus.h"
+
+1461685073 /home/jaime/Escritorio/Arboldebusqueda/operabus.hpp
+	"ArBinBus.h"
+
+1461623786 source:c:\users\joste\dropbox\informática segundo\fran\ednl\p3\arbolgeneral\mainpruebas.cpp
+	"ArBinBus.h"
+	"E_S_BUS_.h"
+	"operabus.hpp"
+	<iostream>
+	<stdlib.h>
+	<cassert>
+
+1461623742 c:\users\joste\dropbox\informática segundo\fran\ednl\p3\arbolgeneral\arbinbus.h
+	<cassert>
+
+1461623778 c:\users\joste\dropbox\informática segundo\fran\ednl\p3\arbolgeneral\e_s_bus_.h
+	<iostream>
+	<stdlib.h>
+	<cassert>
+	"ArBinBus.h"
+
+1461694313 c:\users\joste\dropbox\informática segundo\fran\ednl\p3\arbolgeneral\operabus.hpp
+	"ArBinBus.h"
+

@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1465655486 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer5\grafola.cpp
+	"grafoLA.h"
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1462278453 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer5\grafola.h
+	<vector>
+	<iostream>
+	<string>
+	"listaenla.h"
+
+1462967366 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer5\listaenla.h
+	<cassert>
+
+1465667118 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer5\main.cpp
+	<iostream>
+	"ejer5.h"
+	"alg_grafoP_E-S.h"
+
+1465673745 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer5\ejer5.h
+	"grafoPLA.h"
+
+1462967360 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer5\grafopla.h
+	<vector>
+	<limits>
+	<fstream>
+	<sstream>
+	<string>
+	<ostream>
+	"listaenla.h"
+
+1465667247 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer5\alg_grafop_e-s.h
+	"grafoPLA.h"
+	"matriz.h"
+	<ostream>
+	<iomanip>
+
+1462967369 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\practicas kanku\ednl\práctica 6\ejer5\matriz.h
+	<vector>
+

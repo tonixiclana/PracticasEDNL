@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1459281855 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\nodosreveldes\main.cpp
+	<iostream>
+	"reveldes.hpp"
+
+1459332331 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\nodosreveldes\reveldes.hpp
+	"../ABIN_H2.0.h"
+	"../abin_E-S.h"
+
+1457883351 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\abin_h2.0.h
+	<algorithm>
+	<cassert>
+
+1459281551 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\abin_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+

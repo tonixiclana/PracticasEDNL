@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1462278454 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\grafoma.cpp
+	"grafoMA.h"
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1462278456 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\grafoma.h
+	<vector>
+	<ostream>
+	<string>
+
+1466046532 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\main.cpp
+	<iostream>
+	"ejercicio4.h"
+
+1466046405 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\ejercicio4.h
+	"alg_grafoPMC.h"
+	"alg_grafoP_E-S.h"
+
+1465962013 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\alg_grafopmc.h
+	<cassert>
+	"grafoPMC.h"
+	<vector>
+	"matriz.h"
+	"apo.h"
+	"particion.h"
+
+1465577806 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\grafopmc.h
+	<vector>
+	<limits>
+	<ostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"listaenla.h"
+	"grafoMA.h"
+
+1462967366 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\listaenla.h
+	<cassert>
+
+1462967369 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\matriz.h
+	<vector>
+
+1462967337 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\apo.h
+	<cassert>
+
+1462967374 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\particion.h
+	<vector>
+
+1462967331 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 7\ejer4\alg_grafop_e-s.h
+	"grafoPMC.h"
+	<ostream>
+	<iomanip>
+

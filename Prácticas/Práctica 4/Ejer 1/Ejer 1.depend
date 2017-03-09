@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1461773673 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 4\ejer 1\main.cpp
+	<iostream>
+	"ABB_H.hpp"
+	"abb_E-S.h"
+
+1461775172 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 4\ejer 1\abb_h.hpp
+	<cassert>
+
+1461767283 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 4\ejer 1\abb_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1458315928 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\ejer1\main.cpp
+	<iostream>
+	"similares.h"
+
+1458315734 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\ejer1\similares.h
+	"../ABIN_H.h"
+	"../cola_enlazada.h"
+	"../listaEnlazada.h"
+	"../abin_E-S.h"
+
+1457879751 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\abin_h.h
+	<algorithm>
+	<cassert>
+
+1449770243 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\cola_enlazada.h
+	<cassert>
+
+1452336656 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\listaenlazada.h
+	<cassert>
+
+1458130055 source:c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\ejer1\similares.cpp
+	"similares.h"
+
+1457468051 c:\users\toni\dropbox\mio\2º curso\2º semestre\ednl\practicas\práctica 2\abin_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+
+1458658685 source:c:\users\toni\dropbox\mini-grupo gii\gii\ednl\practicas\práctica 2\ejer1\main.cpp
+	"similares.hpp"
+	<iostream>
+
+1458657975 c:\users\toni\dropbox\mini-grupo gii\gii\ednl\practicas\práctica 2\ejer1\similares.h
+	"../ABIN_H.h"
+	"../cola_enlazada.h"
+	"../listaEnlazada.h"
+	"../abin_E-S.h"
+
+1457879751 c:\users\toni\dropbox\mini-grupo gii\gii\ednl\practicas\práctica 2\abin_h.h
+	<algorithm>
+	<cassert>
+
+1449770243 c:\users\toni\dropbox\mini-grupo gii\gii\ednl\practicas\práctica 2\cola_enlazada.h
+	<cassert>
+
+1452336656 c:\users\toni\dropbox\mini-grupo gii\gii\ednl\practicas\práctica 2\listaenlazada.h
+	<cassert>
+
+1457468051 c:\users\toni\dropbox\mini-grupo gii\gii\ednl\practicas\práctica 2\abin_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+
+1458658225 source:c:\users\toni\dropbox\mini-grupo gii\gii\ednl\practicas\práctica 2\ejer1\similares.cpp
+	"similares.hpp"
+
+1458658685 c:\users\toni\dropbox\mini-grupo gii\gii\ednl\practicas\práctica 2\ejer1\similares.hpp
+	"../ABIN_H.h"
+	"../cola_enlazada.h"
+	"../listaEnlazada.h"
+	"../abin_E-S.h"
+
