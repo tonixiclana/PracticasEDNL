@@ -1,0 +1,52 @@
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include "../../TADS/ArbolBinarioBusqueda/ABB_H.hpp"
+#include "../../TADS/ArbolBinarioBusqueda/abb_E-S.h"
+
+using namespace std;
+
+template <typename T>
+Abb<T> equilibrarAbb(const Abb<T>& abb);
+template <typename T>
+void obtenerElementos(const Abb<T>& abb, vector<T> &vectorElto);
+
+int main()
+{
+    Abb<int> A ;
+
+    rellenarAbb(A, -1);
+
+    equilibrarAbb(A);
+
+    imprimirAbb(A);
+}
+
+template <typename T>
+Abb<T> equilibrarAbb(const Abb<T>& abb)
+{
+    vector<T> vectorElto;
+    Abb<T> abbRet;
+    float mediana;
+
+    obtenerElementos(abb, vectorElto);
+
+    mediana = (vectorElto.size() % 2 != 0)? (vectorElto.size() / 2) + 1 :
+        (vectorElto[(vectorElto.size() / 2) - 1] + vectorElto[(vectorElto.size() / 2)]) / 2 ;
+
+    cout << vectorElto[(vectorElto.size() / 2)] << endl;
+
+    return abbRet;
+}
+
+template <typename T>
+void obtenerElementos(const Abb<T>& abb, vector<T> &vectorElto)
+{
+    if(!abb.vacio())
+    {
+        obtenerElementos(abb.izqdo(), vectorElto);
+        vectorElto.push_back(abb.elemento());
+        obtenerElementos(abb.drcho(), vectorElto);
+    }
+}
+
