@@ -1,0 +1,20 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+#include "../../TADS/ArbolBinario/ABIN_H2.0.h"
+#include "../../TADS/ArbolBinario/abin_E-S.h"
+
+using namespace std;
+
+struct nodoArit
+{
+    char _operador;
+    double _operando;
+    nodoArit(char operador = '#', double operando = 0) : _operador(operador), _operando(operando){}
+};
+
+int main()
+{
+    nodoArit nodo('X');
+}
+

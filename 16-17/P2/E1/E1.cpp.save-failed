@@ -1,0 +1,15 @@
+#include <iostream>
+#include "../../TADS/ArbolBinario/ABIN_H2.0.h"
+#include "../../TADS/ArbolBinario/abin_E-S.h"
+
+int main()
+{
+    Abin<int> abin0, abin1;
+
+    ifstream is = ifstream("abin.dat");
+    rellenarAbin(is, abin0);
+    rellenarAbin(is, abin1);
+    imprimirAbin(abin0);
+    imprimirAbin(abin1);
+
+}

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1488888878 source:c:\users\toni\google drive\mio\2º curso\2º semestre\ednl\16-17\prácticas\p1\e6\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"../TAD/ABIN_H2.0.h"
+	"../TAD/abin_E-S.h"
+
+1488731642 c:\users\toni\google drive\mio\2º curso\2º semestre\ednl\16-17\prácticas\p1\tad\abin_h2.0.h
+	<algorithm>
+	<cassert>
+
+1488734352 c:\users\toni\google drive\mio\2º curso\2º semestre\ednl\16-17\prácticas\p1\tad\abin_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+

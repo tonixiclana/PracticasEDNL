@@ -1,0 +1,64 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+#include "../../TADS/ArbolBinario/ABIN_H2.0.h"
+#include "../../TADS/ArbolBinario/abin_E-S.h"
+
+/*
+    * Consiste en buscar y contar los nodos que tienen 3 nietos ni 1+ ni 1- y
+
+*/
+
+using namespace std;
+
+int main()
+{
+
+}
+
+template <typename T>
+int contarDescendenciaRec(const Abin<T> &abin, const typename Abin<T>::nodo nodo, size_t grado)
+{
+    if(nodo == Abin<T>::NODO_NULO)
+        return 0;
+    if(grado == 0)  //si grado = 0 desde el principio, se genera pregunta ¿descendecia de grado 0?, seria el propio nodo que cuenta 1
+        return 1;
+    else
+        return contarDescendenciaRec(abin, abin.hijoIzqdoB(nodo), --grado)
+            + contarDescendenciaRec(abin, abin.hijoDrchoB(nodo), --grado);
+}
+
+template <typename T>
+int contarDescendencia(const Abin<T> &abin, const typename Abin<T>::nodo nodo, size_t grado)
+{
+    if(abin.arbolVacioB())
+        return 0;
+    else
+    if(grado == 0)
+        return 0;
+    else
+        return contarDescendenciaRec(abin, nodo, grado);
+}
+
+template <typename T>
+int numeroNodosTriNietosRec(const Abin<T> &abin, const typename Abin<T>::nodo nodo)
+{
+    if(nodo == Abin<T>::NODO_NULO)
+        return 0;
+    else
+    if(contarDescendencia(abin, nodo, 2) == 3)
+        return 1 + numeroNodosTriNietosRec(abin, abin.hijoIzqdoB(nodo)) +
+            numeroNodosTriNietosRec(abin, abin.hijoDrchoB(nodo));
+    else
+        return numeroNodosTriNietosRec(abin, abin.hijoIzqdoB(nodo)) +
+            numeroNodosTriNietosRec(abin, abin.hijoDrchoB(nodo));
+}
+
+template <typename T>
+int numeroNodosTriNietos(const Abin<T> &abin)
+{
+    if(abin.arbolVacioB())
+        return 0;
+    else
+        return numeroNodosTriNietosRec(abin, abin.raizB());
+}

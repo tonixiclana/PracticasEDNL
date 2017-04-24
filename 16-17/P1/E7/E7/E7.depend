@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1489146533 source:c:\users\toni\google drive\mio\2º curso\2º semestre\ednl\16-17\prácticas\p1\e7\e7\main.cpp
+	<iostream>
+	<fstream>
+	"../../../TADS/ArbolBinario/ABIN_H2.0.h"
+	"../../../TADS/ArbolBinario/abin_E-S.h"
+
+1488731642 c:\users\toni\google drive\mio\2º curso\2º semestre\ednl\16-17\prácticas\tads\arbolbinario\abin_h2.0.h
+	<algorithm>
+	<cassert>
+
+1488734352 c:\users\toni\google drive\mio\2º curso\2º semestre\ednl\16-17\prácticas\tads\arbolbinario\abin_e-s.h
+	<cassert>
+	<iostream>
+	<fstream>
+
